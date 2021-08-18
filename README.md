@@ -1,4 +1,4 @@
-# Pystark
+# Pyspark
 // learning pyspark 
 
 # How to Install and Run PySpark in Jupyter Notebook on Windows
