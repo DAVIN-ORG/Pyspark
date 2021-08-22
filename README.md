@@ -1,5 +1,4 @@
-# Pyspark
-// learning pyspark 
+# Pyspark // learning pyspark 
 
 # How to Install and Run PySpark in Jupyter Notebook on Windows
 When I write PySpark code, I use Jupyter notebook to run my code.
